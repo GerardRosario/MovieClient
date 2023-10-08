@@ -7,7 +7,7 @@ import
 function App() {
   return (
     <div className="App">
-    Testing again
+    Tests
     </div>
   );
 }
